@@ -1,4 +1,14 @@
 ## Hi there 👋
+Dr. Marlyn George **MD · MBA Healthcare (Distinction) · NHS Digital Transformation Leader** 
+📍 London, UK 🔗 [LinkedIn](https://linkedin.com/in/dr-marlyn-george-md-mba-a5bb93205) 
+About NHS-domain strategist and clinician bridging healthcare policy with cloud and AI-enabled technology.
+I work with NHS Trusts, ICSs, and DHSC to translate clinical and operational realities into commercial propositions — engaging CIOs, CDIOs, and Medical Directors on long-cycle digital transformation initiatives. 
+Focus Areas - 🏥 NHS Policy & Strategy Translation (10-Year Plan, NHSE, ICS) - ☁️ Cloud & AI Proposition Development (AWS, Google Cloud, Azure) - 🤝 Senior NHS Stakeholder Engagement - 📈 Enterprise Go-To-Market Strategy & Procurement Shaping - 🎤 National Policy & Thought Leadership (House of Lords, TEDx) 
+
+ Background - 🩺 MD, Yerevan State Medical University - 🎓 MBA Healthcare (Distinction), University of Hertfordshire - 🏆 Harvard Business School Global Leadership Programme · NHS Leadership Academy Graduate 
+ 
+ Currently Working across NHS digital strategy and healthcare technology partnerships, helping organisations position cloud-enabled solutions ahead of formal NHS procurement cycles. 
+ Open to conversations on NHS digital transformation, healthcare cloud strategy, and AI in health systems
 
 <!--
 **marlyngeorge-pixel/marlyngeorge-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
